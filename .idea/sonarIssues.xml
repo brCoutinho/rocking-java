@@ -53,6 +53,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/colecoes/ConjuntoBaguncado.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/equalsHashcode/Equals.java">
           <value>
             <set />
@@ -69,6 +74,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/equalsHashcode/Usuário.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/equalsHashcodes/Equals.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/equalsHashcodes/Usuario.java">
           <value>
             <set />
           </value>
